@@ -1,7 +1,11 @@
 hello world!!
 
-hiii!!
+hiii!!'
 
-new change
+'new change,'
+
 
 chnage made by team mate on remote master for bug3.
+
+updating new local master
+(NWI: hyphen added and a new line added to local master)
