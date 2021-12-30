@@ -3,3 +3,5 @@ to fix bug1
 1.first change made.
 
 2.second chnge by member.
+
+chnage:for stash
